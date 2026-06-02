@@ -6,6 +6,17 @@
 
 [中文文档](https://github.com/zzzJie-Robot/Go2Arm_Lab/blob/main/README_CN.md "中文文档")
 
+> [!IMPORTANT]
+> **🎉 A brand-new version is here!**
+> 
+> Go2Arm_Lab has been fully upgraded to [**LeggedManip_Lab**](https://github.com/zzzJie-Robot/LeggedManip_Lab) — now supporting **7 robot platforms**, **2 training modes** (Flat + WBC), and a complete pipeline from IsaacLab training → MuJoCo deployment → real-world transfer.
+>
+> 👉 **New users should use [LeggedManip_Lab](https://github.com/zzzJie-Robot/LeggedManip_Lab)**
+> 
+>  This repository is maintained up to IsaacLab v2.2.0 only — no new features will be added
+
+---
+
 ## 🚀 Overview
 
 Go2Arm_Lab enables RL training for the **Go2Arm** robot:
