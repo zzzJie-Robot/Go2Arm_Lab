@@ -4,6 +4,15 @@
   
 <img src="https://img.shields.io/badge/IsaacSim-v4.5.0-blue" alt="IsaacSim-v4.2.0" /> <img src="https://img.shields.io/badge/IsaacLab-v2.1.0-blue" alt="IsaacLab v2.1.0" /> <img src="https://img.shields.io/badge/Python-3.10-blue" alt="Python 3.10" /> <img src="https://img.shields.io/badge/Platform-Linux--64-orange" alt="Linux-64" /> <img src="https://img.shields.io/badge/License-Apache2.0-yellow" alt="Apache2.0T License" />
 
+> [!IMPORTANT]
+> **🎉 全新升级版本已发布！**  
+> Go2Arm_Lab 已全面升级为 [**LeggedManip_Lab**](https://github.com/zzzJie-Robot/LeggedManip_Lab)，支持 **7 种**机器人平台、**2 种**训练模式（Flat + WBC），覆盖 IsaacLab 训练 → MuJoCo 部署 → 真机迁移的完整管线。  
+>  
+> 👉 **新用户请直接使用 [LeggedManip_Lab](https://github.com/zzzJie-Robot/LeggedManip_Lab)**  
+> 👉 本仓库仅维护至 IsaacLab v2.2.0，不再更新新特性
+
+---
+
 ## 🚀 概述
 
 Go2Arm_Lab 使足式操作机器人的强化学习训练成为可能:
